@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Krishnandroid.iml" filepath="$PROJECT_DIR$/Krishnandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simchange/simchange.iml" filepath="$PROJECT_DIR$/simchange/simchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simmanager/simmanager.iml" filepath="$PROJECT_DIR$/simmanager/simmanager.iml" />
+    </modules>
+  </component>
+</project>
